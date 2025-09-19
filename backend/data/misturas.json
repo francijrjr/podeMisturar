@@ -1,0 +1,387 @@
+{
+  "alcool+vinagre": {
+    "descricao": "Mistura de álcool (etanol) e vinagre (ácido acético).",
+    "efeito": "Formação de acetato de etila em pequenas quantidades, gerando odor forte.",
+    "risco": "Baixo (não tóxico, mas irritante).",
+    "aplicacao": "Limpeza doméstica como desinfetante natural.",
+    "alerta": "Evitar uso em superfícies sensíveis à acidez."
+  },
+  "agua+oleo": {
+    "descricao": "Mistura de substâncias polares (água) e apolares (óleo).",
+    "efeito": "Separação em camadas devido à imiscibilidade.",
+    "risco": "Nenhum.",
+    "aplicacao": "Estudos de polaridade molecular ou culinária (com emulsificantes).",
+    "alerta": "Não se misturam naturalmente."
+  },
+  "cloro+amonia": {
+    "descricao": "Combinação de hipoclorito de sódio (cloro) e amônia.",
+    "efeito": "Liberação de gases tóxicos (cloraminas e hidrazina).",
+    "risco": "Alto (irritação pulmonar, risco de morte).",
+    "aplicacao": "Nenhuma aplicação segura.",
+    "alerta": "NUNCA misturar produtos de limpeza com esses componentes."
+  },
+  "agua+acucar": {
+    "descricao": "Dissolução de sacarose em água.",
+    "efeito": "Solução homogênea e adocicada.",
+    "risco": "Nenhum (exceto para diabéticos em excesso).",
+    "aplicacao": "Culinária, produção de caldas ou bebidas energéticas.",
+    "alerta": "Consumir com moderação."
+  },
+  "speedball": {
+    "descricao": "Combinação de heroína (depressivo) e cocaína (estimulante).",
+    "efeito": "Sobrecarga do sistema nervoso e cardiovascular.",
+    "risco": "Letal (alto risco de overdose instantânea).",
+    "aplicacao": "Nenhuma aplicação segura ou medicinal.",
+    "alerta": "Evitar CONTATO TOTAL. Busque ajuda profissional imediatamente."
+  },
+  "bicarbonato+vinagre": {
+    "descricao": "Reação entre bicarbonato de sódio (NaHCO₃) e ácido acético (vinagre).",
+    "efeito": "Produção de dióxido de carbono (efervescência), acetato de sódio e água.",
+    "risco": "Baixo (seguro para experimentos caseiros).",
+    "aplicacao": "Limpeza, projetos de ciências ou culinária (como fermento natural).",
+    "alerta": "Evitar inalação excessiva de CO₂ em ambientes fechados."
+  },
+  "peroxido+iodeto": {
+    "descricao": "Peróxido de hidrogênio (H₂O₂) + iodeto de potássio (KI).",
+    "efeito": "Decomposição rápida do H₂O₂, liberando oxigênio e calor (experimento 'pasta de elefante').",
+    "risco": "Moderado (pode causar queimaduras ou danos oculares).",
+    "aplicacao": "Demonstrações científicas de reações exotérmicas.",
+    "alerta": "Use equipamento de proteção e supervisione crianças."
+  },
+  "leite+limao": {
+    "descricao": "Leite (proteínas) + ácido cítrico (limão).",
+    "efeito": "Coagulação das proteínas do leite, formando coalhada.",
+    "risco": "Baixo (usado na culinária).",
+    "aplicacao": "Produção de queijos caseiros (ex.: ricota, paneer).",
+    "alerta": "Não consumir se houver alergia a lácteos."
+  },
+  "alcool+peroxido": {
+    "descricao": "Etanol (C₂H₅OH) + peróxido de hidrogênio (H₂O₂).",
+    "efeito": "Pode formar ácido peracético (irritante) em concentrações elevadas.",
+    "risco": "Moderado (irrita pele e mucosas).",
+    "aplicacao": "Desinfecção de superfícies (não recomendado sem orientação).",
+    "alerta": "Não misturar para uso doméstico sem diluição adequada."
+  },
+  "cloro+vinagre": {
+    "descricao": "Hipoclorito de sódio (cloro) + ácido acético (vinagre).",
+    "efeito": "Liberação de gás cloro (Cl₂), altamente tóxico.",
+    "risco": "Alto (queimaduras químicas e danos pulmonares).",
+    "aplicacao": "Nenhuma aplicação segura.",
+    "alerta": "Combinação extremamente perigosa. Evite a todo custo!"
+  },
+  "aspirina+vitaminac": {
+    "descricao": "Ácido acetilsalicílico (aspirina) + ácido ascórbico (vitamina C).",
+    "efeito": "Aumenta a acidez estomacal, podendo causar irritação.",
+    "risco": "Moderado (risco de úlceras em uso prolongado).",
+    "aplicacao": "Nenhuma vantagem terapêutica comprovada.",
+    "alerta": "Consulte um médico antes de combinar medicamentos."
+  },
+  "sodio+agua": {
+    "descricao": "Sódio metálico (Na) + água (H₂O).",
+    "efeito": "Reação explosiva, liberando hidrogênio (H₂) e hidróxido de sódio (NaOH).",
+    "risco": "Alto (risco de queimaduras químicas e incêndio).",
+    "aplicacao": "Demonstrações controladas em laboratório.",
+    "alerta": "NUNCA experimente fora de ambientes supervisionados."
+  },
+  "ferro+oxigenio": {
+    "descricao": "Ferro (Fe) + oxigênio (O₂) + água (H₂O).",
+    "efeito": "Oxidação lenta, formando óxido de ferro (ferrugem).",
+    "risco": "Baixo (processo natural, mas danoso a estruturas).",
+    "aplicacao": "Estudos de corrosão ou arte com texturas.",
+    "alerta": "Prote objetos metálicos com tintas ou vernizes."
+  },
+  "mentos+refrigerante": {
+    "descricao": "Balas Mentos + refrigerante (CO₂ dissolvido).",
+    "efeito": "Núcleos rugosos das balas aceleram a liberação de gás carbônico.",
+    "risco": "Baixo (mas pode causar engasgo ou sujeira).",
+    "aplicacao": "Experimentos divertidos de física/química.",
+    "alerta": "Realize em áreas abertas e evite contato com os olhos."
+  },
+  "canela+agua": {
+    "descricao": "Canela em pó (cinamaldeído) + água.",
+    "efeito": "Hidratação parcial, formando uma suspensão densa.",
+    "risco": "Baixo (não tóxico, mas pode irritar em grandes quantidades).",
+    "aplicacao": "Chás, aromatizantes ou estudos de hidrofobicidade.",
+    "alerta": "Não inale o pó diretamente."
+  },
+  "peroxido+ferro": {
+    "descricao": "Peróxido de hidrogênio (H₂O₂) + limalha de ferro.",
+    "efeito": "Oxidação acelerada do ferro, liberando oxigênio e calor.",
+    "risco": "Moderado (reação exotérmica).",
+    "aplicacao": "Estudos de corrosão ou demonstrações químicas.",
+    "alerta": "Manuseie com luvas e em área ventilada."
+  },
+  "gasolina+isopor": {
+    "descricao": "Gasolina (hidrocarboneto) + isopor (poliestireno).",
+    "efeito": "Dissolução do isopor, formando gel inflamável (similar a napalm).",
+    "risco": "Alto (altamente combustível e tóxico).",
+    "aplicacao": "Nenhuma aplicação segura.",
+    "alerta": "Evite contato e inalação de vapores."
+  },
+  "acucar+acidosulfurico": {
+    "descricao": "Sacarose (C₁₂H₂₂O₁₁) + ácido sulfúrico concentrado (H₂SO₄).",
+    "efeito": "Desidratação do açúcar, produzindo carbono e vapor.",
+    "risco": "Alto (reação extremamente exotérmica e corrosiva).",
+    "aplicacao": "Demonstrações de química avançada.",
+    "alerta": "Só para profissionais com EPI completo."
+  },
+  "aluminio+soda": {
+    "descricao": "Alumínio (Al) + soda cáustica (NaOH).",
+    "efeito": "Liberação de hidrogênio gasoso (H₂) e calor.",
+    "risco": "Moderado (risco de explosão e queimaduras).",
+    "aplicacao": "Produção de gás em laboratório.",
+    "alerta": "Nunca faça em recipientes fechados."
+  },
+  "permanganato+glicerina": {
+    "descricao": "Permanganato de potássio (KMnO₄) + glicerina (C₃H₈O₃).",
+    "efeito": "Reação exotérmica intensa, podendo gerar chamas.",
+    "risco": "Alto (incêndio e queimaduras).",
+    "aplicacao": "Demonstrações controladas de ignição.",
+    "alerta": "Armazene os compostos separadamente."
+  },
+  "sal+gelo": {
+    "descricao": "Cloreto de sódio (NaCl) + gelo (H₂O).",
+    "efeito": "Redução da temperatura do gelo (até -21°C).",
+    "risco": "Baixo (contato prolongado causa queimaduras frias).",
+    "aplicacao": "Sorvetes caseiros ou resfriamento rápido.",
+    "alerta": "Use luvas para manipular."
+  },
+  "vinagre+sal": {
+    "descricao": "Ácido acético (vinagre) + cloreto de sódio (sal).",
+    "efeito": "Solução ácida com propriedades de limpeza.",
+    "risco": "Baixo (seguro para limpeza).",
+    "aplicacao": "Remover calcário ou desinfetar superfícies.",
+    "alerta": "Não use em metais oxidáveis."
+  },
+  "detergente+alcool": {
+    "descricao": "Detergente (tensoativo) + álcool isopropílico.",
+    "efeito": "Solução desengraxante e antisséptica.",
+    "risco": "Baixo (evite contato com olhos).",
+    "aplicacao": "Limpeza de eletrônicos ou vidros.",
+    "alerta": "Mantenha longe de chamas."
+  },
+  "leite+refrigerante": {
+    "descricao": "Leite (proteínas) + refrigerante (ácido fosfórico).",
+    "efeito": "Coagulação das proteínas, formando grumos.",
+    "risco": "Baixo (não tóxico, mas indigesto).",
+    "aplicacao": "Experimentos de química básica.",
+    "alerta": "Não consumir após a mistura."
+  },
+  "cobre+acidonitrico": {
+    "descricao": "Cobre (Cu) + ácido nítrico concentrado (HNO₃).",
+    "efeito": "Reação violenta, liberando gases tóxicos (NO₂).",
+    "risco": "Alto (corrosivo e cancerígeno).",
+    "aplicacao": "Nenhuma aplicação doméstica.",
+    "alerta": "Restrito a laboratórios especializados."
+  },
+  "gelatina+aguaquente": {
+    "descricao": "Gelatina (colágeno) + água quente.",
+    "efeito": "Hidrólise parcial, formando uma solução viscosa.",
+    "risco": "Nenhum.",
+    "aplicacao": "Culinária (sobremesas) ou cultivo de bactérias.",
+    "alerta": "Não consumir gelatina crua."
+  },
+  "magnesio+fogo": {
+    "descricao": "Fita de magnésio (Mg) + chama.",
+    "efeito": "Combustão intensa com luz branca brilhante.",
+    "risco": "Moderado (queimaduras e risco de incêndio).",
+    "aplicacao": "Sinais de emergência ou pirotecnia.",
+    "alerta": "Manuseie com pinças e óculos de proteção."
+  },
+  "aguaoxigenada+sangue": {
+    "descricao": "Peróxido de hidrogênio (H₂O₂) + sangue (enzimas catalase).",
+    "efeito": "Decomposição rápida do H₂O₂, formando espuma.",
+    "risco": "Baixo (usado para limpar feridas).",
+    "aplicacao": "Antisséptico em primeiros socorros.",
+    "alerta": "Não use em feridas profundas."
+  },
+  "amonia+alcool": {
+    "descricao": "Amônia (NH₃) + álcool isopropílico (C₃H₈O).",
+    "efeito": "Solução volátil com cheiro forte.",
+    "risco": "Moderado (irritação respiratória e cutânea).",
+    "aplicacao": "Limpeza industrial (não recomendada para uso doméstico).",
+    "alerta": "Use máscara e luvas."
+  },
+  "borracha+querosene": {
+    "descricao": "Borracha natural + querosene (hidrocarboneto).",
+    "efeito": "Inchaço e dissolução parcial da borracha.",
+    "risco": "Baixo (tóxico se inalado).",
+    "aplicacao": "Remover adesivos ou limpeza pesada.",
+    "alerta": "Armazene longe de fontes de calor."
+  },
+  "chumbo+acido": {
+    "descricao": "Chumbo (Pb) + ácido sulfúrico (H₂SO₄).",
+    "efeito": "Corrosão lenta, liberando hidrogênio e sais de chumbo.",
+    "risco": "Alto (toxicidade por chumbo).",
+    "aplicacao": "Nenhuma aplicação segura.",
+    "alerta": "Descartado como resíduo perigoso."
+  },
+  "farinha+ar": {
+    "descricao": "Farinha (carboidratos) + ar (oxigênio).",
+    "efeito": "Poeira combustível, explosiva em ambientes confinados.",
+    "risco": "Alto (risco de explosão).",
+    "aplicacao": "Nenhuma.",
+    "alerta": "Evite acúmulo de poeira em moinhos ou cozinhas."
+  },
+  "hidrogenio+oxigenio": {
+    "descricao": "Hidrogênio (H₂) + oxigênio (O₂).",
+    "efeito": "Combustão explosiva, formando água (H₂O).",
+    "risco": "Alto (mistura detonante).",
+    "aplicacao": "Propulsão de foguetes.",
+    "alerta": "Só manuseie em sistemas selados."
+  },
+  "nitroglicerina+impacto": {
+    "descricao": "Nitroglicerina (C₃H₅N₃O₉) + impacto físico.",
+    "efeito": "Detonação violenta.",
+    "risco": "Letal (explosivo instável).",
+    "aplicacao": "Uso controlado em mineração ou demolições.",
+    "alerta": "NUNCA manipule sem treinamento especializado."
+  },
+  "polvora+fogo": {
+    "descricao": "Pólvora (KNO₃, carvão, enxofre) + ignição.",
+    "efeito": "Combustão rápida, liberando gases e calor.",
+    "risco": "Alto (queimaduras e projéteis).",
+    "aplicacao": "Armas de fogo ou fogos de artifício.",
+    "alerta": "Armazene em local seco e seguro."
+  },
+  "acetona+isopor": {
+    "descricao": "Acetona (C₃H₆O) + poliestireno (isopor).",
+    "efeito": "Dissolução do isopor, formando uma cola espessa.",
+    "risco": "Moderado (inflamável e tóxico se inalado).",
+    "aplicacao": "Remoção de resíduos de cola ou artesanato.",
+    "alerta": "Use em área ventilada e longe de chamas."
+  },
+  "acidosulfurico+acucar": {
+    "descricao": "Ácido sulfúrico concentrado (H₂SO₄) + sacarose.",
+    "efeito": "Desidratação do açúcar, gerando carbono e vapor ácido.",
+    "risco": "Alto (reação exotérmica e corrosiva).",
+    "aplicacao": "Demonstrações avançadas de química orgânica.",
+    "alerta": "Exclusivo para laboratórios com equipamento de segurança."
+  },
+  "ferro+enxofre": {
+    "descricao": "Ferro em pó (Fe) + enxofre (S).",
+    "efeito": "Formação de sulfeto ferroso (FeS) sob aquecimento.",
+    "risco": "Baixo (cheiro desagradável de H₂S se umedecido).",
+    "aplicacao": "Estudo de compostos iônicos em educação básica.",
+    "alerta": "Evite inalar os gases liberados."
+  },
+  "paracetamol+alcool": {
+    "descricao": "Paracetamol (C₈H₉NO₂) + etanol.",
+    "efeito": "Sobrecarga hepática, aumentando risco de danos ao fígado.",
+    "risco": "Alto (toxicidade cumulativa).",
+    "aplicacao": "Nenhuma.",
+    "alerta": "Nunca misture medicamentos com álcool sem orientação médica."
+  },
+  "sabao+aguadura": {
+    "descricao": "Sabão (tensoativo) + água rica em cálcio/magnésio.",
+    "efeito": "Formação de espuma reduzida e resíduos (sais insolúveis).",
+    "risco": "Baixo (ineficácia na limpeza).",
+    "aplicacao": "Estudo da dureza da água.",
+    "alerta": "Use água amaciada para melhorar a eficiência."
+  },
+  "termite": {
+    "descricao": "Pó de alumínio (Al) + óxido de ferro (Fe₃O₄).",
+    "efeito": "Reação termita: liberação intensa de calor (até 2500°C).",
+    "risco": "Extremo (queimaduras graves e incêndios).",
+    "aplicacao": "Soldagem de trilhos ou demonstrações controladas.",
+    "alerta": "Só para profissionais com equipamento especializado."
+  },
+  "vinho+bicarbonato": {
+    "descricao": "Vinho (ácido tartárico) + bicarbonato de sódio.",
+    "efeito": "Neutralização ácida com liberação de CO₂ (efervescência).",
+    "risco": "Baixo (seguro em pequenas quantidades).",
+    "aplicacao": "Receitas culinárias ou experimentos de pH.",
+    "alerta": "Consumo excessivo pode causar desconforto gástrico."
+  },
+  "enzimas+substrato": {
+    "descricao": "Enzimas (ex.: amilase) + substrato específico (ex.: amido).",
+    "efeito": "Catálise de reações bioquímicas (ex.: digestão de açúcares).",
+    "risco": "Baixo (com enzimas naturais).",
+    "aplicacao": "Indústria alimentícia ou laboratórios de biologia.",
+    "alerta": "Enzimas industriais requerem manipulação cuidadosa."
+  },
+  "oxigenio+gasnatural": {
+    "descricao": "Oxigênio (O₂) + metano (CH₄).",
+    "efeito": "Combustão completa, produzindo CO₂ e H₂O.",
+    "risco": "Alto (mistura explosiva em proporções erradas).",
+    "aplicacao": "Geração de energia em turbinas.",
+    "alerta": "Ventile áreas com vazamentos de gás."
+  },
+  "co2+agua": {
+    "descricao": "Dióxido de carbono (CO₂) + água (H₂O).",
+    "efeito": "Formação de ácido carbônico (H₂CO₃), reduzindo o pH.",
+    "risco": "Baixo (base de refrigerantes).",
+    "aplicacao": "Bebidas carbonatadas ou estudos de acidificação oceânica.",
+    "alerta": "Evite inalação direta de CO₂ concentrado."
+  },
+  "calcio+agua": {
+    "descricao": "Cálcio metálico (Ca) + água.",
+    "efeito": "Liberação de hidrogênio (H₂) e hidróxido de cálcio.",
+    "risco": "Moderado (reação exotérmica e inflamável).",
+    "aplicacao": "Demonstrações de reatividade de metais alcalino-terrosos.",
+    "alerta": "Manuseie com pinças e proteção ocular."
+  },
+  "oleomotor+anticongelante": {
+    "descricao": "Óleo lubrificante + etilenoglicol (anticongelante).",
+    "efeito": "Formação de borra e redução da eficiência lubrificante.",
+    "risco": "Moderado (danos a motores).",
+    "aplicacao": "Nenhuma.",
+    "alerta": "Mantenha os fluidos separados em veículos."
+  },
+  "helio+oxigenio": {
+    "descricao": "Hélio (He) + oxigênio (O₂).",
+    "efeito": "Mistura respirável (ex.: mergulho em grandes profundidades).",
+    "risco": "Baixo (se proporção controlada).",
+    "aplicacao": "Medicina hiperbárica ou mergulho técnico.",
+    "alerta": "Inalação de hélio puro causa asfixia."
+  },
+  "acidocloridrico+zinco": {
+    "descricao": "Ácido clorídrico (HCl) + zinco metálico (Zn).",
+    "efeito": "Liberação de hidrogênio gasoso e cloreto de zinco.",
+    "risco": "Moderado (corrosivo e inflamável).",
+    "aplicacao": "Produção de hidrogênio em laboratório.",
+    "alerta": "Faça em área ventilada e com ignição controlada."
+  },
+  "levedura+acucar": {
+    "descricao": "Levedura (Saccharomyces) + glicose/frutose.",
+    "efeito": "Fermentação alcoólica, produzindo CO₂ e etanol.",
+    "risco": "Baixo (usado em panificação e produção de bebidas).",
+    "aplicacao": "Culinária, biocombustíveis ou experimentos biológicos.",
+    "alerta": "Ambientes fechados podem acumular CO₂."
+  },
+  "nitratodeprata+cobre": {
+    "descricao": "Nitrato de prata (AgNO₃) + fio de cobre (Cu).",
+    "efeito": "Deposição de prata metálica e formação de nitrato de cobre.",
+    "risco": "Moderado (manchas na pele e toxicidade).",
+    "aplicacao": "Galvanização ou experimentos de reação redox.",
+    "alerta": "Use luvas e óculos de proteção."
+  },
+  "metano+ignicao": {
+    "descricao": "Metano (CH₄) + fonte de ignição.",
+    "efeito": "Combustão explosiva, gerando CO₂ e H₂O.",
+    "risco": "Alto (incêndios ou explosões).",
+    "aplicacao": "Combustível para aquecimento ou geração de energia.",
+    "alerta": "Detectores de gás são essenciais em áreas de risco."
+  },
+  "litio+agua": {
+    "descricao": "Lítio metálico (Li) + água.",
+    "efeito": "Reação vigorosa, liberando hidrogênio e hidróxido de lítio.",
+    "risco": "Alto (risco de incêndio e queimaduras).",
+    "aplicacao": "Estudo da reatividade de metais alcalinos.",
+    "alerta": "Armazene o lítio em óleo mineral."
+  },
+  "silicato+clorecodecalcio": {
+    "descricao": "Silicato de sódio (Na₂SiO₃) + cloreto de cálcio (CaCl₂).",
+    "efeito": "Formação de estruturas gelatinosas ('jardim químico').",
+    "risco": "Baixo (experimento visual inofensivo).",
+    "aplicacao": "Demonstrações didáticas de precipitação.",
+    "alerta": "Descarte os resíduos adequadamente."
+  },
+  "acidofluoridrico+vidro": {
+    "descricao": "Ácido fluorídrico (HF) + vidro (SiO₂).",
+    "efeito": "Corrosão do vidro, formando hexafluorossilicatos.",
+    "risco": "Extremo (tóxico e corrosivo).",
+    "aplicacao": "Gravação de vidros ou indústria eletrônica.",
+    "alerta": "Use equipamento de proteção completo e treinamento."
+  }
+}
